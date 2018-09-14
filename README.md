@@ -1,2 +1,2 @@
-# simple_html
+# simple html
 very simple html code
